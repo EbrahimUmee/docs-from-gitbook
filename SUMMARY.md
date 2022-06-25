@@ -8,3 +8,4 @@
 * [Assets](assets.md)
 * [Basic Key Management](basic-key-management.md)
 * [Multisig](multisig.md)
+* [Using TMKMS](using-tmkms.md)
