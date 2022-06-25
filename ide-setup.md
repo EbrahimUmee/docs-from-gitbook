@@ -21,7 +21,7 @@ Add the following extensions to your VSCode:
 Go to: `VSCode -> Preferences -> settings -> Extensions -> Go`
 
 * Set `Go: Lint tool` to `golint`. You can use `staticcheck` if you'd like, it can just take lots of computational resources.
-  * If you'd like to use the same configuration as osmosis code, use `golangci-lint` .
+  * If you'd like to use the same configuration as umee code, use `golangci-lint` .
   * You will likely be prompted to install the linter you choose, click the install button.
 * Set `Go: Format tool` to one of the following: `goreturns` or `gofumports`
   * You will likely be prompted to install the formatter you choose, click the install button.

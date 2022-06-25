@@ -35,7 +35,7 @@ First import the public keys of `test3` into your keyring
 ```
 umeed keys add \
     test3 \
-    --pubkey=osmopub1addwnpepqgcxazmq6wgt2j4rdfumsfwla0zfk8e5sws3p3zg5dkm9007hmfysxas0u2
+    --pubkey=umeepub1addwnpepqgcxazmq6wgt2j4rdfumsfwla0zfk8e5sws3p3zg5dkm9007hmfysxas0u2
 ```
 
 Generate the multisig key with 2/3 threshold.
