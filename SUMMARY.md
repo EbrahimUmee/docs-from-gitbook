@@ -10,3 +10,4 @@
 * [Multisig](multisig.md)
 * [Using TMKMS](using-tmkms.md)
 * [Performance & Profiling](performance-and-profiling.md)
+* [Ethereum Protocol Smart Contracts](ethereum-protocol-smart-contracts.md)
