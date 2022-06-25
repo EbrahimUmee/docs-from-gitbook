@@ -1,14 +1,6 @@
 # Installing Umee Node
 
-### Hardware Requirements
-
-To run a Umee Node you will first need a Ubuntu server.&#x20;
-
-The recommended hardware to run an Umee node will vary depending on the use case and desired functionalities of the node. For example, a significant amount of disk space can be required if the node will act as an archive node, i.e. `pruning=nothing` or if the node is a state-sync snapshot provider. In general, we recommend at a minimum the following specifications:
-
-* 2+ vCPU
-* 4+ GB RAM
-* 120+ GB SSD
+###
 
 At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a Umee Node onto your server.&#x20;
 
