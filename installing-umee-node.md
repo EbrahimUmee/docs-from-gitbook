@@ -70,7 +70,7 @@ Once initialized, overwrite the default `genesis.json` file with genesis state f
 
 ```bash
 cd ~/.umee/config
-wget -O $HOME/.umee/config/genesis.json "https://raw.githubusercontent.com/umee-network/umee/main/networks/umee-1/genesis.json"UmeeMania Node
+wget -O $HOME/.umee/config/genesis.json "https://raw.githubusercontent.com/umee-network/umee/main/networks/umee-1/genesis.json"
 ```
 
 ```
